@@ -1,3 +1,3 @@
 ## LOCAL JAVA WEB APP TOMCAT DEPLOYMENT
-![Tomcat deployment](docs/architecture-maven.drawio)
+![Tomcat deployment](docs/architecture-maven.drawio.png)
 
